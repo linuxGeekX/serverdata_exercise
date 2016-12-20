@@ -1,0 +1,17 @@
+html {
+	font-size: 12px;
+	font-family: "Open Sans", "Sans Serif";
+}
+
+table {
+	width: 100%;
+	background: rgb(75, 75, 75);
+}
+
+tr:hover:not(:first-child) {
+	background: rgb(100, 100, 100);
+}
+
+th, td {
+	color: white;
+}
